@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-04-19 BZR 4011)-stable date = 9/17/2013 6:47:41 PM
+
+BeginCmp
+TimeStamp = /5238D9F4;
+Reference = C1;
+ValeurCmp = 10uf;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5237CFC2;
+Reference = IC1;
+ValeurCmp = ATTINY85-P;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5238E8F5;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5238E9F9;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5237CFD1;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+EndListe

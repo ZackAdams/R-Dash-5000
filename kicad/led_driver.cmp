@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2013-04-19 BZR 4011)-stable date = 9/17/2013 10:37:30 PM
+
+BeginCmp
+TimeStamp = /523912A8;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /523906D2;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /523910A5;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52358730;
+Reference = P3;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /523587CC;
+Reference = P4;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /523587DC;
+Reference = P5;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /523587E8;
+Reference = P6;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /523587F4;
+Reference = P7;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52358800;
+Reference = P8;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5235880C;
+Reference = P9;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52358818;
+Reference = P10;
+ValeurCmp = LED_1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5235598B;
+Reference = U1;
+ValeurCmp = TPIC6B595;
+IdModule  = SO20L;
+EndCmp
+
+EndListe

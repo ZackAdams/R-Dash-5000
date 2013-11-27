@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2013-04-19 BZR 4011)-stable date = 9/13/2013 1:14:10 PM
+
+BeginCmp
+TimeStamp = /5232484A;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A108;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A118;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A11E;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A136;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A13C;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A148;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A14E;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED-PLCC2;
+EndCmp
+
+BeginCmp
+TimeStamp = /523349B5;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A187;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A2CD;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A2D9;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5232A2DF;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+EndListe
